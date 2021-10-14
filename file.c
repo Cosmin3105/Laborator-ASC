@@ -2,9 +2,6 @@
 
 int main()
 {
-	int x, y;
-	x = 5;
-	y = 7;
-	cout << x + y << endl;
+	printf("Hello world!\n");
 	return 0;
 }
